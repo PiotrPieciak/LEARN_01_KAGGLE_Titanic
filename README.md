@@ -6,7 +6,8 @@ The dataset is publicly available on Kaggle under an open license
 
 ** Source: ** [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 ## Installation & Setup
-To run this project, you need Python and Jupyter Notebook installed
+To run this project, you need Python and Jupyter Notebook installed.
+
 Download 3 files from this repository:
 * Titanic-Dataset.csv
 * LEARN_01_KAGGLE_Titanic_datase.ipynb
