@@ -18,18 +18,21 @@ Click on the **Code** button and select **Download ZIP** or clone the repository
 
 2. Create and activate a Conda environment (optional but recommended)
 
+	```
 	conda create --name titanic_env python=3.10
 	conda activate titanic_env
 
-4. Instal required dependencies:
+3. Instal required dependencies:
 
+ 	```
 	pip install -r requirements.txt
 
-5. Open Jupyter Notebook:
+4. Open Jupyter Notebook:
 
+ 	```
  	jupyter notebook
   
-6. Navigate to notebooks/LEARN_01_KAGGLE_Titanic_datase.ipynb and run all cells
+5. Navigate to notebooks/LEARN_01_KAGGLE_Titanic_datase.ipynb and run all cells
 ## Dependencies
 * imbalanced-learn==0.12.4
 * matplotlib==3.9.2
