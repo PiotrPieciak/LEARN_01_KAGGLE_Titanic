@@ -20,7 +20,7 @@ To run this project, you need **Python** and **Jupyter Notebook** installed.
 
 4. Instal required dependencies:
 
-	pip imstall -r requirements.txt
+	pip install -r requirements.txt
 
 5. Open Jupyter Notebook:
 
