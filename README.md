@@ -4,7 +4,7 @@ This project analyzes the famous Titanic dataset to predict passengers survival 
 ## Dataset 
 The dataset is publicly available on Kaggle under an open license
 
-** Source: ** [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
+**Source:** [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 ## Installation & Setup
 To run this project, you need Python and Jupyter Notebook installed.
 
