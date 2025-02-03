@@ -15,19 +15,23 @@ Click on the **Code** button and select **Download ZIP** or clone the repository
 	git clone https://github.com/PiotrPieciak/LEARN_01_KAGGLE_Titanic.git
 	cd titanic-ml-project
  	```
+  
 2. Create and activate a Conda environment (optional but recommended)
 	```
 	conda create --name titanic_env python=3.10
 	conda activate titanic_env
  	```
+ 
 3. Instal required dependencies:
 	```
 	pip install -r requirements.txt
  	```
+ 
 4. Open Jupyter Notebook:
 	```
  	jupyter notebook
   	```
+ 
 5. Run the project
 * Open LEARN_01_KAGGLE_Titanic_dataset.ipynb in Jupyter Notebook.
 * Run all cells to execute the analysis.
