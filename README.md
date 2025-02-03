@@ -12,16 +12,13 @@ To run this project, you need **Python** and **Jupyter Notebook** installed and 
 
 Click on the **Code** button and select **Download ZIP** or clone the repository using Git:
 
- 	```
 	git clone https://github.com/PiotrPieciak/LEARN_01_KAGGLE_Titanic.git
 	cd titanic-ml-project
- 	```
-  
 2. Create and activate a Conda environment (optional but recommended)
 	```
 	conda create --name titanic_env python=3.10
 	conda activate titanic_env
- 	```
+	```
  
 3. Instal required dependencies:
 	```
