@@ -6,17 +6,19 @@ The dataset is publicly available on Kaggle under an open license
 
 **Source:** [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 ## Installation & Setup
-To run this project, you need **Python** and **Jupyter Notebook** installed.
+To run this project, you need **Python** and **Jupyter Notebook** installed and the required libraries. Follow these steps using **Anaconda Prompt**:
 
-1. Download 3 files from this repository:
-* data/Titanic-Dataset.csv
-* notebooks/LEARN_01_KAGGLE_Titanic_datase.ipynb
-* requirements.txt
+1. Download the repository
 
-2. Create and activate virtual enviroment (optional but recommended).
+Click on the **Code** button and select **Download ZIP** or clone the repository using Git:  
+```bash
+git clone https://github.com/yourusername/titanic-ml-project.git
+cd titanic-ml-project
 
-	python -m venv venv  
-	source venv/bin/activate  # On Windows: venv\Scripts\activate
+2. Create and activate a Conda environment (optional but recommended)
+
+	conda create --name titanic_env python=3.10
+	conda activate titanic_env
 
 4. Instal required dependencies:
 
