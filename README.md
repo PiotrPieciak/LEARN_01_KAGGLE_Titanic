@@ -11,9 +11,9 @@ To run this project, you need **Python** and **Jupyter Notebook** installed and 
 1. Download the repository
 
 Click on the **Code** button and select **Download ZIP** or clone the repository using Git:  
-```bash
-git clone https://github.com/yourusername/titanic-ml-project.git
-cd titanic-ml-project
+	```bash
+	git clone https://github.com/yourusername/titanic-ml-project.git
+	cd titanic-ml-project
 
 2. Create and activate a Conda environment (optional but recommended)
 
