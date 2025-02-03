@@ -10,6 +10,7 @@ Download 3 files from this repository:
 * Titanic-Dataset.csv
 * LEARN_01_KAGGLE_Titanic_datase.ipynb
 * requirements.txt
+
 Create and activate virtual enviroment (optional)
 Instal required dependencies:
 	pip imstall -r requirements.txt
