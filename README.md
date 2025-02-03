@@ -10,7 +10,8 @@ To run this project, you need **Python** and **Jupyter Notebook** installed and 
 
 1. Download the repository
 
-Click on the **Code** button and select **Download ZIP** or clone the repository using Git:  
+Click on the **Code** button and select **Download ZIP** or clone the repository using Git:
+
  	```
 	git clone https://github.com/PiotrPieciak/LEARN_01_KAGGLE_Titanic.git
 	cd titanic-ml-project
