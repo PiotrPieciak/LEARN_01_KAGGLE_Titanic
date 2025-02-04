@@ -1,6 +1,23 @@
 # Titanic Survival Prediction
 ## Description of project
-This project analyzes the famous Titanic dataset to predict passengers survival using three different machine learning algorithms: RandomForest, LogisticRegression and Neural Network. It includes data processing, exploratory data analysis (EDA), feature engineering and model trainings.
+This project, conducted during the Codilla bootcamp, focuses on predicting passenger survival from the Titanic dataset. Guided by course materials and my mentor, I improve the analysis with my own ideas and insights.
+
+The project include multiple stages of data processing, beginning with thorough exploratory data analysis (EDA) to understand the dataset's structure and identify significant patterns. I then performed feature engineering to create meaningful variables that could improve model performance.
+
+Three classification models were developed and compared:
+
+1. Logistic Regression
+2. Random Forest Classifier
+3. Deep Learning Model
+
+First two models are using gridsearch for hyperparameter tuning based on data processes in pipeline. Deep Learning required bit different approach however data are also processes in pipeline.
+
+The primary evaluation metric was the F1 score, particularly for the class representing survivors. This focus ensured a robust understanding of model performance in identifying those who survived the disaster.
+
+While this project is rooted in educational materials, it also reflects my contributions, including custom feature engineering techniques and customized evaluation strategies.
+
+By blending theoretical learning with practical application, this project demonstrates foundational skills in data analysis, machine learning, and model optimization.
+
 ## Dataset 
 The dataset is publicly available on Kaggle under an open license
 
